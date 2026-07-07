@@ -38,7 +38,7 @@ Multicore configuration:
 - Cargo
 - A desktop environment with graphical application support.
 
-SchedVizRust is intended to be cross-platform. It has been tested on Windows and WSL Ubuntu, and should also work on other Linux desktop environments supported by Rust and the GUI/file-dialog libraries used by the project. The app uses `eframe`/`egui` for the GUI, `rfd` for native file dialogs, and portable Rust crates for CSV and image export. On WSL, GUI support such as WSLg or an X server is required.
+schedviz_rust is intended to be cross-platform. It has been tested on Windows and WSL Ubuntu, and should also work on other Linux desktop environments supported by Rust and the GUI/file-dialog libraries used by the project. The app uses `eframe`/`egui` for the GUI, `rfd` for native file dialogs, and portable Rust crates for CSV and image export. On WSL, GUI support such as WSLg or an X server is required.
 
 ## Compile
 
