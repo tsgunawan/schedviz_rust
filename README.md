@@ -10,7 +10,7 @@ Prof. Ir. Ts. Dr. Teddy Surya Gunawan, International Islamic University Malaysia
 
 To cite this code, cite the conference paper:
 
-Teddy Surya Gunawan, "schedviz_rust: Visualizing the Collapse of Scheduling Advantage in Multicore CPU Scheduling," 12th IEEE International Conference on Instrumentation, Measurement and Application 2026, Kuching, 29-30 July 2026.
+Teddy Surya Gunawan, "Visualizing the Collapse of Scheduling Advantage in Multicore CPU Scheduling with schedviz_rust," 12th IEEE International Conference on Instrumentation, Measurement and Application 2026, Kuching, 29-30 July 2026.
 
 ## Features
 
